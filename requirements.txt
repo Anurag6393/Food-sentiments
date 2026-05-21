@@ -1,0 +1,5 @@
+joblib 
+pandas
+sklearn
+pillow
+numpy
